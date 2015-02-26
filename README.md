@@ -19,3 +19,7 @@ Hardware concept for the casing:
 ![Front View](concepts/front.png)
 
 ![Back View](concepts/back.png)
+
+UI concept for the app:
+
+![Home Screen](concepts/home.png)
