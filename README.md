@@ -16,6 +16,6 @@ Samantha is a Raspberry Pi based smart alarm clock designed for personal use.
 
 Hardware concept for the casing:
 
-![Front View](concept/front.png)
+![Front View](concepts/front.png)
 
-![Back View](concept/back.png)
+![Back View](concepts/back.png)
