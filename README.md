@@ -1,8 +1,8 @@
-# Samantha
+# Lila
 
-Samantha is a Raspberry Pi based smart alarm clock designed for personal use. 
+Lila is a Raspberry Pi based smart alarm clock designed for personal use. 
 
-*Samantha is currently under development.*
+*currently under development.*
 
 ###Functions:
 
