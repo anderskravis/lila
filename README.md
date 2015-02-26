@@ -1,9 +1,10 @@
 # Samantha
 
 Samantha is a Raspberry Pi based smart alarm clock designed for personal use. 
+
 *Samantha is currently under development.*
 
-##Functions:
+###Functions:
 
 * [ ] Set an alarm via the web app
 * [ ] Alarm goes off in the morning 
@@ -11,8 +12,10 @@ Samantha is a Raspberry Pi based smart alarm clock designed for personal use.
 * [ ] Says "Good morning" and begins to read you the weather / news of the day
 
 
-##Design:
+###Design:
 
 Hardware concept for the casing:
 
-![Front View](http://url/to/img.png)
+![Front View](concept/front.png)
+
+![Back View](concept/back.png)
