@@ -1,0 +1,14 @@
+body {
+text-align: center;
+margin: 0;
+padding: 0;
+background: #C54424;
+}
+
+h1 {
+font-family: 'Open-Sans', sans-serif;
+font-weight: 100;
+font-size: 120px;
+color: #F1DBBC;
+padding-top: 30vh;
+}
